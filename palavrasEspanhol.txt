@@ -1,2 +1,6 @@
 dedo - dedo
 mano - mão
+comer - comer
+comida - comida / refeição
+comilón - comilão / guloso
+cocina - cozinha
