@@ -10,3 +10,4 @@ corredor(a) - corredor / corredora
 bebida - bebida
 beber - beber
 bebedero - bebedouro
+gracias a Dios - graças a Deus
