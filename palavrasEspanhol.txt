@@ -7,3 +7,6 @@ cocina - cozinha
 habitación - quarto / cômodo
 correr - correr
 corredor(a) - corredor / corredora
+bebida - bebida
+beber - beber
+bebedero - bebedouro
