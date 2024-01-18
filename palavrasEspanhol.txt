@@ -4,3 +4,6 @@ comer - comer
 comida - comida / refeição
 comilón - comilão / guloso
 cocina - cozinha
+habitación - quarto / cômodo
+correr - correr
+corredor(a) - corredor / corredora
