@@ -11,3 +11,7 @@ bebida - bebida
 beber - beber
 bebedero - bebedouro
 gracias a Dios - graças a Deus
+brincar - pular / saltar
+sábana - lençol
+sartén - frigideira
+látigo - chicote / chicotada
