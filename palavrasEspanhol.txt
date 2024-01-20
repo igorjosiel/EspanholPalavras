@@ -15,3 +15,6 @@ brincar - pular / saltar
 sábana - lençol
 sartén - frigideira
 látigo - chicote / chicotada
+gustar - gostar
+gusto - gosto
+sabor - sabor / gosto
