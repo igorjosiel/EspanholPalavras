@@ -38,3 +38,4 @@ oración - frase
 orar - orar
 missa - misa
 altar - altar
+candelabro - candelabro
