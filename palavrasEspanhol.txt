@@ -32,3 +32,9 @@ elección - eleição
 vecindario - vizinhança / barrio
 barrio - bairro
 viudo(a) - viúvo(a)
+iglesia - igreja
+oración - oração
+oración - frase
+orar - orar
+missa - misa
+altar - altar
