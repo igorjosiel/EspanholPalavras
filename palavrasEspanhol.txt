@@ -1,4 +1,4 @@
-dedo - dedo
+I'mdedo - dedo
 mano - mão
 comer - comer
 comida - comida / refeição
@@ -39,3 +39,8 @@ orar - orar
 missa - misa
 altar - altar
 candelabro - candelabro
+prisión - prisão / cadeia
+prisionero - prisioneiro
+penitenciario - penitenciario
+atrapar - prender / pegar
+atrapado - preso
