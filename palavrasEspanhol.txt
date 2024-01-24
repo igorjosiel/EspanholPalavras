@@ -1,4 +1,4 @@
-I'mdedo - dedo
+dedo - dedo
 mano - mão
 comer - comer
 comida - comida / refeição
@@ -44,3 +44,8 @@ prisionero - prisioneiro
 penitenciario - penitenciario
 atrapar - prender / pegar
 atrapado - preso
+cárcel - cárcere / prisão
+celda - cela
+cuerdo(a) - sensato(a) / são
+sensato(a) - sensato(a)
+borracho(a) - bêbado(a)
