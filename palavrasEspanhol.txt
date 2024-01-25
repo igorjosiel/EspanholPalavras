@@ -49,3 +49,10 @@ celda - cela
 cuerdo(a) - sensato(a) / são
 sensato(a) - sensato(a)
 borracho(a) - bêbado(a)
+jugar - brincar / jogar
+jugador(a) - jogador(a)
+jugada - jogada
+juego - jogo
+jugabilidad - jogabilidade
+jugable - jogável
+juguete - brinquedo
