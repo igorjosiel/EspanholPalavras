@@ -59,3 +59,5 @@ juguete - brinquedo
 despertar - acordar
 despierto (a) - acordado(a)
 plegaria - prece / oração
+manzana - maçã
+manzana - quadra / quarteirão
