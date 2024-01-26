@@ -56,3 +56,6 @@ juego - jogo
 jugabilidad - jogabilidade
 jugable - jogável
 juguete - brinquedo
+despertar - acordar
+despierto (a) - acordado(a)
+plegaria - prece / oração
