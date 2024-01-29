@@ -61,3 +61,8 @@ despierto (a) - acordado(a)
 plegaria - prece / oração
 manzana - maçã
 manzana - quadra / quarteirão
+brazo - braço
+abrazo - abraço
+abrazar - abraçar
+peligro - perigo
+peligroso - perigoso
