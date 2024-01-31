@@ -66,3 +66,5 @@ abrazo - abraço
 abrazar - abraçar
 peligro - perigo
 peligroso - perigoso
+rubio(a) - loiro(a)
+pelirroja(o) - ruiva(o)
