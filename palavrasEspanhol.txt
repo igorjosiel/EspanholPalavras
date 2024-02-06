@@ -68,4 +68,4 @@ peligro - perigo
 peligroso - perigoso
 rubio(a) - loiro(a)
 pelirroja(o) - ruiva(o)
-tempo presente do subjuntivo - 70 frases
+tempo presente do subjuntivo - 80 frases
