@@ -78,3 +78,6 @@ ofrecido - oferecido
 ofrenda - oferenda
 oferta - oferta
 ofrecimiento - oferecimento
+ver - ver
+vista - vista
+punto de vista - ponto de vista
