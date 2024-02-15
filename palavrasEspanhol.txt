@@ -73,3 +73,8 @@ esconder - esconder
 escondido - escondido
 ocultar - ocultar
 oculto - oculto / escondido
+ofrecer - oferecer
+ofrecido - oferecido
+ofrenda - oferenda
+oferta - oferta
+ofrecimiento - oferecimento
