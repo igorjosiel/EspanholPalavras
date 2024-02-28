@@ -1,83 +1,21 @@
-dedo - dedo
-mano - mão
-comer - comer
-comida - comida / refeição
-comilón - comilão / guloso
-cocina - cozinha
-habitación - quarto / cômodo
-correr - correr
-corredor(a) - corredor / corredora
-bebida - bebida
-beber - beber
-bebedero - bebedouro
-gracias a Dios - graças a Deus
-brincar - pular / saltar
-sábana - lençol
-sartén - frigideira
-látigo - chicote / chicotada
-gustar - gostar
-gusto - gosto
-sabor - sabor / gosto
-torniquete - toniquete / garrote
-torniquete - catraca
-morir - morrer
-muerto - morto
-nariz - nariz
-a no ser por - a não ser por / se não fosse por / exceto
-billete - passagem
-elegir - escolher / eleger
-elección - escolha
-vecino(a) - vizinho(a)
-elección - eleição
-vecindario - vizinhança / barrio
-barrio - bairro
-viudo(a) - viúvo(a)
-iglesia - igreja
-oración - oração
-oración - frase
-orar - orar
-missa - misa
-altar - altar
-candelabro - candelabro
-prisión - prisão / cadeia
-prisionero - prisioneiro
-penitenciario - penitenciario
-atrapar - prender / pegar
-atrapado - preso
-cárcel - cárcere / prisão
-celda - cela
-cuerdo(a) - sensato(a) / são
-sensato(a) - sensato(a)
-borracho(a) - bêbado(a)
-jugar - brincar / jogar
-jugador(a) - jogador(a)
-jugada - jogada
-juego - jogo
-jugabilidad - jogabilidade
-jugable - jogável
-juguete - brinquedo
-despertar - acordar
-despierto (a) - acordado(a)
-plegaria - prece / oração
-manzana - maçã
-manzana - quadra / quarteirão
-brazo - braço
-abrazo - abraço
-abrazar - abraçar
-peligro - perigo
-peligroso - perigoso
-rubio(a) - loiro(a)
-pelirroja(o) - ruiva(o)
-tempo presente do subjuntivo - 100 frases
-esconder - esconder
-escondido - escondido
-ocultar - ocultar
-oculto - oculto / escondido
-ofrecer - oferecer
-ofrecido - oferecido
-ofrenda - oferenda
-oferta - oferta
-ofrecimiento - oferecimento
-ver - ver
-vista - vista
-punto de vista - ponto de vista
+casa - casa
+sol - sol
+luna - lua
+suelo - chão
+mesa - mesa
+libro - livro
+cama - cama
+pluma - caneta
+lápiz - lápis
+árbol - árvore
+flor - flor
+cuaderno - caderno
+mochila - mochila
+raíz - raiz
+hoja - folha
+papel - papel
+puerta - porta
+techo - teto
+ventana - janela
+llave - chave
+chimenea - chaminé
