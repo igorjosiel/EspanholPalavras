@@ -36,6 +36,7 @@ leer - ler
 lamer - lamber
 dormitar - cochilar
 maldecir - xingar
+maldecir - amaldiçoar
 digitar - digitar
 garabatear - rabiscar
 mencionar - mencionar
@@ -47,4 +48,21 @@ oír - ouvir
 escuchar - escutar
 mirar - olhar
 ver - ver
+insistir - insistir
 conversar - conversar
+tirar - jogar fora
+romper - quebrar
+violar - violar
+violar - estuprar
+tomar una siesta - cochilar
+jugar - jogar
+estrangular - estrangular
+dejar caer - deixar cair
+vestir - vestir
+colocar - colocar
+calzar - calçar
+botar - botar
+vengar - vingar
+asediar - assediar
+mamar - mamar
+despertar - acordar
