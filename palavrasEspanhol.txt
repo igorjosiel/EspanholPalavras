@@ -116,3 +116,7 @@ sencillo - simples
 complicado - complicado
 alegre - alegre
 desanimado - desanimado
+cana - cabelo branco
+escaso - escasso
+institutriz - governanta
+acertijo - enigma
