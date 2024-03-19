@@ -120,3 +120,4 @@ cana - cabelo branco
 escaso - escasso
 institutriz - governanta
 acertijo - enigma
+espeso - espesso
