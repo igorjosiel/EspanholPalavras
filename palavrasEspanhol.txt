@@ -131,7 +131,7 @@ oso panda - urso panda
 oso polar - urso polar
 cerdo - porco
 hacha - machado
-guadaña - foice
+hoz - foice
 lengua - língua
 diente - dente
 lupa - lupa
