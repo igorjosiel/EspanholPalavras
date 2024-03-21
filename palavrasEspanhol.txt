@@ -121,3 +121,27 @@ escaso - escasso
 institutriz - governanta
 acertijo - enigma
 espeso - espesso
+martillo - martelo
+cabello - cabelo
+caballo - cavalo
+hueso - osso
+huesudo - ossudo
+oso - urso
+oso panda - urso panda
+oso polar - urso polar
+cerdo - porco
+hacha - machado
+guadaña - foice
+lengua - língua
+diente - dente
+lupa - lupa
+playa - praia
+soleado - ensolarado
+nube - nuvem
+nublado - nublado
+cielo - céu
+arco iris - arco-íris
+armario - guarda-roupa
+fogón - fogão
+suelo - assoalho
+solo - solo
