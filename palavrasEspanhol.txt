@@ -144,4 +144,4 @@ arco iris - arco-íris
 armario - guarda-roupa
 fogón - fogão
 suelo - assoalho
-solo - solo
+suelo - solo
