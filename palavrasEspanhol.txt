@@ -161,14 +161,13 @@ barbaridad - barbaridade
 bárbaro - bárbaro
 corazón - coração
 lúdico - lúdico
-brincadeira - brincadeira
+broma - brincadeira
 bobagem - bobagem
 bobeira - bobeira
 maldad - maldade
 malevolencia - malevolência
 benevolencia - benevolência
 malvado - malvado
-moldoso - moldoso
-malvadeza - malvadeza
+malo - mal
 mal - mal
-bem - bem
+bien - bem
