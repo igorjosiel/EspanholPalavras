@@ -171,3 +171,29 @@ malvado - malvado
 malo - mal
 mal - mal
 bien - bem
+coger - pegar
+bañarse - tomar banho
+tomar agua - beber água
+acusar - acusar
+beber - beber
+merendar - lanchar
+ver - assistir
+oler - cheirar
+anotar - anotar
+peinar - pentear
+bailar - dançar
+cantar - cantar
+embriagarse - embriagar
+contar - contar
+prometer - prometer
+jurar - jurar
+pensar - pensar
+acariciar - acariciar
+rezar - rezar
+orar - orar
+soñar - sonhar
+freír - fritar
+hervir - ferver
+robar - roubar
+asaltar - assaltar
+gerundio - 100 frases
