@@ -183,7 +183,7 @@ anotar - anotar
 peinar - pentear
 bailar - dançar
 cantar - cantar
-embriagarse - embriagar
+emborrachar - embriagar
 contar - contar
 prometer - prometer
 jurar - jurar
