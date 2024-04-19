@@ -197,3 +197,7 @@ hervir - ferver
 robar - roubar
 asaltar - assaltar
 gerundio - 100 frases
+montaña - montanha
+salsa - salsa
+cuadro - quadro
+hielo - gelo
