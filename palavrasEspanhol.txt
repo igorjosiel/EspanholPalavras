@@ -10,10 +10,12 @@ ensuciar - sujar
 mancha - mancha
 manchado(a) - manchado(a)
 manchar - manchar
+corregir - corrigir
 corrección - correção
 soldado - soldado
 mariposa - borboleta
 cocina - cozinha
+peregrino - peregrino
 peregrinación - peregrinação
 fallar - errar / falhar / não funcionar / decepcionar
 camarera - garçonete
@@ -24,7 +26,19 @@ detención - detenção
 cebolla - cebola
 luna - lua
 echar de menos - sentir falta / sentir saudades
-torcido - errado
+torcido - errado / deslocado / torto
 desesperación - desespero
 guante - luva
 arrastrar - rastejar
+golpiza - surra
+arrestar - prender
+arrestado - preso
+cocinar - cozinhar
+cocinero - cozinheiro
+taza - caneca / xícara
+mano - mão
+tucán - tucano
+luna - lua
+caer - cair
+tos - tosse
+algo de - um pouco
