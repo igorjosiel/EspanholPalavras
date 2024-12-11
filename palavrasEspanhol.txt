@@ -57,3 +57,8 @@ lluvioso(a) - chuvoso(a)
 arrastre - rastejamento
 ventear - ventar
 viento - vento
+ventoso(a) - ventoso(a)
+nube - nuvem
+nublar - nublar
+tronar - trovejar
+trueno - trovão
