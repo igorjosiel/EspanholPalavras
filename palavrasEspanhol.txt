@@ -26,7 +26,7 @@ detención - detenção
 cebolla - cebola
 luna - lua
 echar de menos - sentir falta / sentir saudades
-torcido - errado / deslocado / torto
+torcido - errado / deslocado / torto / malicioso
 desesperación - desespero
 guante - luva
 arrastrar - rastejar
@@ -39,6 +39,21 @@ taza - caneca / xícara
 mano - mão
 tucán - tucano
 luna - lua
-caer - cair
+caer - cair / não dar certo
 tos - tosse
 algo de - um pouco
+papel - papel / função
+caída - queda / caída
+rastrero(a) - rastejante
+corral - curral
+engañoso - enganoso
+caer bien - simpatizar
+un poco - um pouco
+puñetazo - soco
+detener - parar
+llover - chover
+lluvia - chuva
+lluvioso(a) - chuvoso(a)
+arrastre - rastejamento
+ventear - ventar
+viento - vento
