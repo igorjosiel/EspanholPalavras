@@ -18,3 +18,18 @@ almendro - amendoeira
 huerto - horta / pomar
 molino - moinho
 forraje - forragem
+estiércol - esterco
+leñador - lenhador
+carreta - carroça
+buey - boi
+vaca - vaca
+caballo - cavalo
+cerdo - porco
+oveja - ovelha
+cabra - cabra
+abeja - abelha
+miel - mel
+lana - lã
+sembrar - semear
+cosechar - colheitar
+arar - arar
