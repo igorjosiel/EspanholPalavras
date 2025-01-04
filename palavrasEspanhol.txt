@@ -33,3 +33,15 @@ lana - lã
 sembrar - semear
 cosechar - colheitar
 arar - arar
+regar - irrigar
+pastorear - pastorear
+cuidar - cuidar
+alimentar - alimentar
+podar - podar
+cultivar - cultivar
+plantar - plantar
+recoger - recolher
+construir - construir
+cavar - cavar
+criar - criar
+ordeñar - ordenhar
