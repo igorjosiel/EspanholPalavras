@@ -45,3 +45,13 @@ construir - construir
 cavar - cavar
 criar - criar
 ordeñar - ordenhar
+cuchillo - faca
+cuchara - colher
+tenedor - garfo
+plato - prato
+mesa - mesa
+puerta - porta
+ventana - janela
+tejado - telhado
+teja - telha
+pared - parede
