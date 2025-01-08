@@ -55,3 +55,13 @@ ventana - janela
 tejado - telhado
 teja - telha
 pared - parede
+manija - maçaneta
+armario - armário
+guardarropa - guarda-roupa
+cama - cama
+silla - cadeira
+baño - banheiro
+cocina - cozinha
+sala de estar - sala
+comedor - sala de jantar
+dormitorio - quarto
