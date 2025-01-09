@@ -65,3 +65,16 @@ cocina - cozinha
 sala de estar - sala
 comedor - sala de jantar
 dormitorio - quarto
+escoba - vassoura
+cepillo de dientes - escova de dentes
+pasta de dientes - pasta de dentes
+escurridor - rodo
+jalador - rodo
+aspiradora - aspirador
+tv - tv
+televisión - televisão
+radio - rádio
+refrigerador - geladeira
+frigorífico - geladeira
+nevera - geladeria
+estufa - fogão
