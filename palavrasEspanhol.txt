@@ -78,3 +78,13 @@ refrigerador - geladeira
 frigorífico - geladeira
 nevera - geladeria
 estufa - fogão
+lámpara - lâmpada
+escritorio - escrivaninha
+retrato - retrato
+marco - moldura
+calendario - calendário
+pizarra - quadro
+sartén - frigideira
+olla - panela
+cacerola para leche - leiteira
+frasco - pote
