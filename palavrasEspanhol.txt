@@ -88,3 +88,13 @@ sartén - frigideira
 olla - panela
 cacerola para leche - leiteira
 frasco - pote
+cocinar - cozinhar
+almuerzo - almoço
+almorzar - almoçar
+desayunar - tomar café da manhã
+desayuno - café da manhã
+café - café
+leche - leite
+galleta - biscoito
+hornear - assar
+hervir ferver
