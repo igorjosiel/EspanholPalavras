@@ -97,4 +97,4 @@ café - café
 leche - leite
 galleta - biscoito
 hornear - assar
-hervir ferver
+hervir - ferver
