@@ -98,3 +98,13 @@ leche - leite
 galleta - biscoito
 hornear - assar
 hervir - ferver
+comer - comer
+chupar - chupar
+beber - beber
+pelar - descascar
+freír - fritar
+picar - picar
+rallar - ralar
+lavar - lavar
+calentar - esquentar
+servir - servir
