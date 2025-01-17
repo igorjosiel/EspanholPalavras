@@ -108,3 +108,13 @@ rallar - ralar
 lavar - lavar
 calentar - esquentar
 servir - servir
+rallado - ralado
+lavado - lavado
+cortado - cortado
+limpio - limpo
+sucio - sujo
+servido - servido
+caliente - quente
+frío - frio
+listo - pronto
+frío - gelado
