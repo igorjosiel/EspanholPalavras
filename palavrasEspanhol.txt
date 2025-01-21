@@ -131,3 +131,16 @@ gordito - gorducho
 flacucho - magrelo
 debilucho - fracote
 feucho - feioso
+inteligente - inteligente
+listo - esperto
+tonto - burro
+grosero - mal-educado
+educado - educado
+honesto - honesto
+amigable - amigável
+mentiroso - mentiroso
+egoísta - egoísta
+lindo - fofo
+ambicioso - ambicioso
+genio - gênio
+bobo - bobo
