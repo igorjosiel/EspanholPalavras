@@ -144,3 +144,15 @@ lindo - fofo
 ambicioso - ambicioso
 genio - gênio
 bobo - bobo
+candado - cadeado
+cerrar con llave - trancar
+atar - amarrar
+desatar - desamarrar
+puerta - portão
+portón - porteira
+cadena - corrente
+atado - amarrado
+encadenado - acorrentado
+encadenar - acorrentar
+cuerda - corda
+nudo - nó
