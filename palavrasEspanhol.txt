@@ -201,3 +201,18 @@ clavado - pregado
 romper - quebrar
 roto - quebrado
 rotura - quebra
+salchicha - salsicha
+salsa - molho
+sal - sal
+azúcar - açúcar
+aceite de cocina - óleo de cozinha
+pasta - macarrão
+arroz - arroz
+frijoles - feijão
+mantequilla - manteiga
+harina - farinha
+carne - carne
+chorizo - linguiça
+parrillada - churrasco
+parrilla - churrasqueira
+parrillero - churrasqueiro
