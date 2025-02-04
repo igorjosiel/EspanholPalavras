@@ -247,3 +247,15 @@ aterrador - medonho
 furioso - raivoso
 vergüenza - vergonha
 vergonzoso - vergonhoso
+marearse - enjoar
+mareado - enjoado
+molestar - aborrecer
+molestia - aborrecimento
+molesto - aborrecido
+contento - contente
+contentamiento - contentamento
+avergonzado - envergonhado
+avergonzar - envergonhar
+asustar - assustar
+asustado - assustado
+susto - susto
