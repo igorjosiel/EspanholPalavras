@@ -259,3 +259,4 @@ avergonzar - envergonhar
 asustar - assustar
 asustado - assustado
 susto - susto
+mareo - enjoo
