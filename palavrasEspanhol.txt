@@ -260,3 +260,27 @@ asustar - assustar
 asustado - assustado
 susto - susto
 mareo - enjoo
+crimen - crime
+asesino - assassino
+asesinato - assassinato
+apuñalamiento - facada
+tiroteo - tiroteio
+disparar - balear
+baleado - baleado
+arma - arma
+escopeta - escopeta
+revólver - revólver
+motosierra - motosserra
+armado - armado
+bandido - bandido
+ladrón - ladrão
+prisión - prisão
+celda - cela
+asesinado - assassinado
+muerte - morte
+matar - matar
+muerto - morto
+matanza - matança
+armarse - se armar
+criminal - criminoso
+incriminar - incriminar
