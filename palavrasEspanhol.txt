@@ -284,3 +284,15 @@ matanza - matança
 armarse - se armar
 criminal - criminoso
 incriminar - incriminar
+asalto - assalto
+asaltar - assaltar
+asaltante - assaltante
+bandidaje - bandidagem
+violencia - violência
+violar - violentar
+violentado - violentado
+robar - roubar
+robo - roubo
+robado - roubado
+asaltado - assaltado
+veneno - veneno
