@@ -296,3 +296,13 @@ robo - roubo
 robado - roubado
 asaltado - assaltado
 veneno - veneno
+bota – bota
+zapato – sapato
+pantufla – chinelo
+sombrero – chapéu
+guante – luva
+calcetín – meia
+corbata – gravata
+blusa – blusa
+camisa – camisa
+pantalón – calça
