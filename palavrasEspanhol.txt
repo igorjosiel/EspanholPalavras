@@ -316,3 +316,30 @@ planchar - passar (roupa)
 colgar - pendurar
 doblar - dobrar
 coser - costurar
+moverse - chegar pra lá
+hacerse a un lado - chegar pra lá
+de inmediato - imediatamente
+acabar con - destruir
+acabar con - eliminar
+acabar con - matar
+acabar con - pôr um fim
+acabado con - destruído
+acabado con - eliminado
+acabado con - matado / morrido
+acabado con - colocado un fim
+exterminio - extermínio
+eliminación - eliminação
+destrucción - destruição
+nadar - nadar
+caminar - caminhar
+andar en bicicleta - andar de bicicleta
+volar - voar
+jugar - brincar
+saltar - pular
+navegar - velejar
+aterrizar - pousar
+despegar - decolar
+girar - girar
+doblar a la izquierda - virar à esquerda
+doblar a la derecha - virar à direita
+montar a caballo - andar a cavalo
