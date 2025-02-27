@@ -348,3 +348,19 @@ lechuga - alface
 energía - energia
 energizado - energizado
 energizar - energizar
+cuánto tiempo - quanto tempo
+cuánto cuesta - quanto (quantidade/preço)
+cuántos/cuántas - quantos/quantas
+con qué frecuencia - com que frequência
+iniciar - começar
+iniciado - começado/iniciado
+inicio - início
+igual al mío / a la mía - igual ao meu / à minha
+esfuerzo - esforço intenso
+ajetreo - pressa/agitação
+estafa - enganação/golpe
+venta agresiva - vender agressivamente
+esforzarse - se esforçar
+apresurarse - se apressar
+estafar - enganar
+vender agresivamente - vender agressivamente
