@@ -343,3 +343,8 @@ girar - girar
 doblar a la izquierda - virar à esquerda
 doblar a la derecha - virar à direita
 montar a caballo - andar a cavalo
+hamburguesa - hambúrguer
+lechuga - alface
+energía - energia
+energizado - energizado
+energizar - energizar
