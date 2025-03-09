@@ -13,3 +13,7 @@ niña - menina
 niños - crianças
 hombre - homem
 mujer - mulher
+comida - comida
+comer - comer
+comilón - comilão
+joven - jovem
