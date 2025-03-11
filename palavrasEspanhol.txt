@@ -17,3 +17,14 @@ comida - comida
 comer - comer
 comilón - comilão
 joven - jovem
+abuelo - avô
+abuela - avó
+padre - pai
+madre - mãe
+joven - jovem
+hijo - filho
+hija - filha
+padrastro - padrasto
+madrastra - madrasta
+casa - casa
+hogar - lar
