@@ -47,3 +47,5 @@ carretera - estrada
 conducir - dirigir
 manejar - dirigir
 peatón - pedestre
+correr - correr
+trotar - trotar
