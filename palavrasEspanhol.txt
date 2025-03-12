@@ -28,3 +28,14 @@ padrastro - padrasto
 madrastra - madrasta
 casa - casa
 hogar - lar
+perro - cachorro
+perra - cachorra
+gato - gato
+gata - gata
+ser humano - ser humano
+persona - pessoa
+animal - animal
+personas - pessoas
+hablar - falar
+conversar - conversar
+caminar - caminhar
