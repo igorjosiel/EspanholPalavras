@@ -39,3 +39,11 @@ personas - pessoas
 hablar - falar
 conversar - conversar
 caminar - caminhar
+cruzar - atravessar
+calle - rua
+callejón - beco
+edificio - prédio
+carretera - estrada
+conducir - dirigir
+manejar - dirigir
+peatón - pedestre
