@@ -49,3 +49,12 @@ manejar - dirigir
 peatón - pedestre
 correr - correr
 trotar - trotar
+alcantarilla - bueiro
+coche - carro
+carro - carro
+autobús - ônibus
+autopista - rodovia
+tráfico - tráfego
+tránsito - trânsito
+semáforo - semáforo
+conductor - motorista
