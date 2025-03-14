@@ -58,3 +58,11 @@ tráfico - tráfego
 tránsito - trânsito
 semáforo - semáforo
 conductor - motorista
+almorzar - almoçar
+duchar - tomar banho
+dormir - dormir
+despertar - acordar
+levantar - levantar
+sentar - sentar
+encender - ligar
+apagar - desligar
