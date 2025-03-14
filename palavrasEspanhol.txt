@@ -66,3 +66,5 @@ levantar - levantar
 sentar - sentar
 encender - ligar
 apagar - desligar
+bañar - banhar
+pagar - pagar
