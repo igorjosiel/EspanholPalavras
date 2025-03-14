@@ -68,3 +68,5 @@ encender - ligar
 apagar - desligar
 bañar - banhar
 pagar - pagar
+ómnibus - ônibus
+colectivo - ônibus
