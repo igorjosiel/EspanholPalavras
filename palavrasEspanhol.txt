@@ -70,3 +70,13 @@ bañar - banhar
 pagar - pagar
 ómnibus - ônibus
 colectivo - ônibus
+café - café
+almuerzo - almoço
+cuchara - colher
+tenedor - garfo
+plato - prato
+para nada - de jeito nenhum
+mesero - garçom
+camarero - garçom
+mesera - garçonete
+camarera - garçonete
