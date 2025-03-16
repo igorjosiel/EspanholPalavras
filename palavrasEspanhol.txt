@@ -80,3 +80,13 @@ mesero - garçom
 camarero - garçom
 mesera - garçonete
 camarera - garçonete
+muro - muro
+pared - parede
+ventana - janela
+techo - teto
+suelo - chão
+puerta - porta
+cama - cama
+abrir - abrir
+cerrar - fechar
+cerrar con llave - trancar
