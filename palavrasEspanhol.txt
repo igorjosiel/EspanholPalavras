@@ -100,3 +100,5 @@ tropezar - tropeçar nas palavras
 trabar - tropeçar nas palavras
 topar - dar de cara
 encontrar - encontrar
+fiesta - festa
+estante - estante
