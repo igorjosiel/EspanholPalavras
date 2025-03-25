@@ -90,3 +90,13 @@ cama - cama
 abrir - abrir
 cerrar - fechar
 cerrar con llave - trancar
+renderizar - renderizar
+prestar - prestar
+dejar - deixar
+presentar - apresentar
+tropezar - tropeçar
+tambalear - cambalear
+tropezar - tropeçar nas palavras
+trabar - tropeçar nas palavras
+topar - dar de cara
+encontrar - encontrar
